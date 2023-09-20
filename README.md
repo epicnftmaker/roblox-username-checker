@@ -10,5 +10,7 @@ pip install json
 pip install threading
 ```
 step 2 add ur usernames to usernames.txt
+
 step 3 run robloxchecker.py
+
 step 4 enjoy!
